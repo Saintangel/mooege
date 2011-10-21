@@ -1,33 +1,32 @@
-3847
-3893
-4152
-4156
-4157
-4564
-4982
-5235
-5393
-5985
-5988
-6356
-6632
-6639
-6644
-6646
-6651
-6652
-6653
-76856
-76953
-80652
-85900
-87012
-108444
-115403
-123160
-128781
-131278
-131280
-156353
-156801
-176889
+3847 - Grotesque
+3893 - Imp
+4152 - Carrion Nest
+4156 - Carrion Bat
+4157 - Plague Carrier
+4564 - Corpse Worm
+4982 - Quill Fiend
+5235 - Scavenger
+5393 - Skeleton
+5985 - Treasure Seeker
+5988 - Treasure Pygmy
+6356 - Unburied
+6632 - Crawling Torso (double mob 76856)
+6639 - Retching Cadaver
+6644 - Risen
+6646 - Ravenous Dead
+6651 - Decayer
+6652 - Walking Corpse
+6653 - Hungry Corpse
+76953 - Manglemaw
+80652 - Skeleton_Knee
+85900 - Mira Eamon
+87012 - Royal Henchman
+108444 - Wretched Mother
+115403 - Headcleaver
+123160 - Hungry Torso
+128781 - Young Quill Fiend
+131278 - Ghastly Gravedigger
+131280 - Ghostly Murderer
+156353 - Chancellor Eamon
+156801 -Captine Daltyn
+176889 - Wretched Queen
